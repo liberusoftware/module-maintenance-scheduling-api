@@ -2,7 +2,7 @@
   "name": "module-maintenance-scheduling-api",
   "display_name": "Maintenance Scheduling API",
   "description": "Sanctum-protected scheduling API adapter.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "presentation",
   "provider": "Liberu\\Modules\\Maintenance\\Scheduling\\Api\\SchedulingApiServiceProvider",
   "requires": {
